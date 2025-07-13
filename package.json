@@ -4,7 +4,11 @@
   "description": "🚀 A powerful VS Code extension to generate React components, hooks, middlewares, guards, and other essential project structures — all with best practices and productivity in mind.",
   "icon": "media/icon.png",
   "version": "0.0.1",
-  "publisher": "Juan Bladimir Romero Collazos",
+  "publisher": "ingsystemcix",
+  "author": {
+    "name": "Juan Bladimir Romero Collazos",
+    "email": "juanromerocollazos@gmail.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/IngSystemCix/reactstacktools.git"
